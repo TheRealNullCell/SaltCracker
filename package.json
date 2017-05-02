@@ -1,0 +1,15 @@
+{
+  "name": "saltcracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NullCell",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "readline": "^1.3.0"
+  }
+}
